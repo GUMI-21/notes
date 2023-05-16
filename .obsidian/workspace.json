@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "9becf08eda230062",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a226957b40b7c22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "597bd0cd6365e7b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "研发/研发修行.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6852a3270016a36",
+    "type": "split",
+    "children": [
+      {
+        "id": "f54e07d02a2bd5b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8896c210afdb708",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0e6aacf898827653",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78937e52a34b235e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "62efccc95079e667",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f5e44391aa534fcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "903050612c886f18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "780967b6b81853de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "研发/研发修行.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a0161d2a6f8f06b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "研发/研发修行.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e3dad1920a4f1e27",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d0f8cc6b118a4850",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "研发/研发修行.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "597bd0cd6365e7b6",
+  "lastOpenFiles": [
+    "研发/Redis.md",
+    "游戏/记录.md",
+    "C-programing/第一章 导言.md",
+    "Pasted image 20230514202713.png",
+    "CSAPP/P2 Bite,Bytes,and Integer.md",
+    "C-programing",
+    "CSAPP/P1 lecuture 01 Course Overview.md",
+    "研发/研发修行.md",
+    "CSAPP",
+    "未命名.md",
+    "研发",
+    "未命名 1.md",
+    "游戏"
+  ]
+}
