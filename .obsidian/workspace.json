@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C-programing/第一章 导言.md",
+                "file": "C-programing/第二章 类型、运算符与表达式.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-programing/第一章 导言.md",
+                "file": "C-programing/第二章 类型、运算符与表达式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-programing/第一章 导言.md",
+                "file": "C-programing/第二章 类型、运算符与表达式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-programing/第一章 导言.md"
+                "file": "C-programing/第二章 类型、运算符与表达式.md"
               }
             }
           }
@@ -155,10 +155,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e8896c210afdb708",
+  "active": "597bd0cd6365e7b6",
   "lastOpenFiles": [
-    "C-programing/练习在c_practice仓库.md",
     "C-programing/第一章 导言.md",
+    "C-programing/第二章 类型、运算符与表达式.md",
+    "C-programing/练习在c_practice仓库.md",
+    "C-programing/菜鸟教程.md",
     "CSAPP/P2 Bite,Bytes,and Integer.md",
     "CSAPP/P1 lecuture 01 Course Overview.md",
     "研发/研发修行.md",
