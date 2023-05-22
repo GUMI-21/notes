@@ -11,12 +11,8 @@
             "id": "597bd0cd6365e7b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "研发/Redis.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研发/Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研发/Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "研发/Redis.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -157,10 +149,11 @@
   },
   "active": "e8896c210afdb708",
   "lastOpenFiles": [
-    "研发/研发修行.md",
+    "研发方向/研发修行.md",
     "后端/WebSocket.md",
-    "后端",
+    "README.md",
     "研发/Redis.md",
+    "后端",
     "游戏/记录.md",
     "C-programing/第二章 类型、运算符与表达式.md",
     "C-programing/第一章 导言.md",
@@ -172,7 +165,7 @@
     "C-programing",
     "CSAPP",
     "未命名.md",
-    "研发",
+    "研发方向",
     "未命名 1.md",
     "游戏"
   ]
