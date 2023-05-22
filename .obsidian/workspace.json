@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研发/研发修行.md",
+                "file": "研发/Redis.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "研发/研发修行.md",
+                "file": "研发/Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "研发/研发修行.md",
+                "file": "研发/Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "研发/研发修行.md"
+                "file": "研发/Redis.md"
               }
             }
           }
@@ -157,6 +157,9 @@
   },
   "active": "e8896c210afdb708",
   "lastOpenFiles": [
+    "研发/研发修行.md",
+    "后端/WebSocket.md",
+    "后端",
     "研发/Redis.md",
     "游戏/记录.md",
     "C-programing/第二章 类型、运算符与表达式.md",
@@ -165,7 +168,6 @@
     "CSAPP/P1 lecuture 01 Course Overview.md",
     "CSAPP/P2 Bite,Bytes,and Integer.md",
     "C-programing/菜鸟教程.md",
-    "研发/研发修行.md",
     "Pasted image 20230514202713.png",
     "C-programing",
     "CSAPP",
