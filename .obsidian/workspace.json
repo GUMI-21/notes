@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C-programing/第二章 类型、运算符与表达式.md",
+                "file": "研发/研发修行.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C-programing/第二章 类型、运算符与表达式.md",
+                "file": "研发/研发修行.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C-programing/第二章 类型、运算符与表达式.md",
+                "file": "研发/研发修行.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C-programing/第二章 类型、运算符与表达式.md"
+                "file": "研发/研发修行.md"
               }
             }
           }
@@ -155,17 +155,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "597bd0cd6365e7b6",
+  "active": "e8896c210afdb708",
   "lastOpenFiles": [
-    "C-programing/第一章 导言.md",
-    "C-programing/第二章 类型、运算符与表达式.md",
-    "C-programing/练习在c_practice仓库.md",
-    "C-programing/菜鸟教程.md",
-    "CSAPP/P2 Bite,Bytes,and Integer.md",
-    "CSAPP/P1 lecuture 01 Course Overview.md",
-    "研发/研发修行.md",
     "研发/Redis.md",
     "游戏/记录.md",
+    "C-programing/第二章 类型、运算符与表达式.md",
+    "C-programing/第一章 导言.md",
+    "C-programing/练习在c_practice仓库.md",
+    "CSAPP/P1 lecuture 01 Course Overview.md",
+    "CSAPP/P2 Bite,Bytes,and Integer.md",
+    "C-programing/菜鸟教程.md",
+    "研发/研发修行.md",
     "Pasted image 20230514202713.png",
     "C-programing",
     "CSAPP",
