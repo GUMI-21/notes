@@ -11,8 +11,12 @@
             "id": "597bd0cd6365e7b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "面试题/面经，整理问题，总结学习.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f5e44391aa534fcd",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "面试题/面经，整理问题，总结学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "面试题/面经，整理问题，总结学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "面试题/面经，整理问题，总结学习.md"
+              }
             }
           }
         ],
@@ -141,32 +150,35 @@
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "canvas:新建白板": false
     }
   },
-  "active": "e8896c210afdb708",
+  "active": "597bd0cd6365e7b6",
   "lastOpenFiles": [
+    "面试题/问题记录.md",
+    "面试题/面经，整理问题，总结学习.md",
+    "未命名.md",
     "研发方向/研发修行.md",
-    "后端/WebSocket.md",
+    "Game/记录.md",
+    "面试题",
     "README.md",
+    "后端/WebSocket.md",
     "研发/Redis.md",
     "后端",
-    "游戏/记录.md",
-    "C-programing/第二章 类型、运算符与表达式.md",
-    "C-programing/第一章 导言.md",
-    "C-programing/练习在c_practice仓库.md",
+    "K&B/第二章 类型、运算符与表达式.md",
+    "K&B/第一章 导言.md",
+    "K&B/练习在c_practice仓库.md",
     "CSAPP/P1 lecuture 01 Course Overview.md",
     "CSAPP/P2 Bite,Bytes,and Integer.md",
     "C-programing/菜鸟教程.md",
     "Pasted image 20230514202713.png",
-    "C-programing",
+    "K&B",
     "CSAPP",
-    "未命名.md",
     "研发方向",
     "未命名 1.md",
-    "游戏"
+    "Game"
   ]
 }

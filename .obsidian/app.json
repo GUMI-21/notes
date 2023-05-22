@@ -1,1 +1,11 @@
-{}
+{
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "readableLineLength": false,
+  "showFrontmatter": false,
+  "foldHeading": true,
+  "showLineNumber": true,
+  "showIndentGuide": true,
+  "rightToLeft": false
+}
