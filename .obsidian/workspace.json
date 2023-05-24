@@ -19,9 +19,11 @@
             "id": "00d170c772678f43",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.3"
+                "file": "面试题/面经，整理问题，总结学习.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "面试题/面经，整理问题，总结学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "面试题/面经，整理问题，总结学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "面试题/面经，整理问题，总结学习.md"
+              }
             }
           }
         ],
@@ -145,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,11 +165,12 @@
   },
   "active": "00d170c772678f43",
   "lastOpenFiles": [
+    "面试题/知识点/Go pprof使用.md",
+    "面试题/面经，整理问题，总结学习.md",
     "面试题/问题记录.md",
     "面试题/知识点/Mysql-索引基础.md",
-    "后端/WebSocket.md",
-    "面试题/面经，整理问题，总结学习.md",
     "面试题/知识点/Redis 过期策略和淘汰策略.md",
+    "后端/WebSocket.md",
     "面试题/知识点",
     "K&B/第一章 导言.md",
     "Game/记录.md",
