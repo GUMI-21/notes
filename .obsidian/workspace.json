@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试题/面经，整理问题，总结学习.md",
+                "file": "K&B/第二章 类型、运算符与表达式.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试题/面经，整理问题，总结学习.md",
+                "file": "K&B/第二章 类型、运算符与表达式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试题/面经，整理问题，总结学习.md",
+                "file": "K&B/第二章 类型、运算符与表达式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试题/面经，整理问题，总结学习.md"
+                "file": "K&B/第二章 类型、运算符与表达式.md"
               }
             }
           }
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,22 +164,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e8896c210afdb708",
+  "active": "00d170c772678f43",
   "lastOpenFiles": [
-    "面试题/知识点/Mysql-索引基础.md",
+    "K&B/练习在c_practice仓库.md",
+    "K&B/第二章 类型、运算符与表达式.md",
+    "K&B/第一章 导言.md",
+    "leetcode/需要记住的算法题.md",
     "面试题/面经，整理问题，总结学习.md",
     "面试题/问题记录.md",
+    "后端/Go 依赖注入Wire.md",
+    "面试题/知识点/Mysql-索引基础.md",
     "面试题/知识点/Go pprof使用.md",
     "面试题/知识点/Redis 过期策略和淘汰策略.md",
     "后端/未命名",
     "后端/WebSocket.md",
     "面试题/知识点",
-    "K&B/第一章 导言.md",
     "Game/记录.md",
-    "K&B/练习在c_practice仓库.md",
-    "leetcode/需要记住的算法题.md",
     "README.md",
-    "K&B/第二章 类型、运算符与表达式.md",
     "leetcode",
     "研发方向/研发修行.md",
     "未命名.md",
