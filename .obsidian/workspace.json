@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "da932d6c84d90c24",
+        "id": "accb60f3f86b585d",
         "type": "tabs",
         "children": [
           {
-            "id": "00d170c772678f43",
+            "id": "94840283b05b6794",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试题/面经，整理问题，总结学习.md",
+                "file": "面试题/个人简历/个人简历.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试题/面经，整理问题，总结学习.md",
+                "file": "面试题/个人简历/个人简历.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试题/面经，整理问题，总结学习.md",
+                "file": "面试题/个人简历/个人简历.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试题/面经，整理问题，总结学习.md"
+                "file": "面试题/个人简历/个人简历.md"
               }
             }
           }
@@ -155,9 +155,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "00d170c772678f43",
+  "active": "94840283b05b6794",
   "lastOpenFiles": [
+    "面试题/个人简历/张文豪-15380250951-Golang服务端.pdf",
+    "面试题/个人简历/个人简历.md",
     "面试题/问题记录.md",
+    "面试题/个人简历",
     "面试题/面经，整理问题，总结学习.md",
     "C K&B/练习在c_practice仓库.md",
     "C K&B/第二章 类型、运算符与表达式.md",
@@ -186,8 +189,6 @@
     "Pasted image 20230514202713.png",
     "C K&B",
     "CSAPP",
-    "研发方向",
-    "未命名 1.md",
-    "Game"
+    "未命名 1.md"
   ]
 }
