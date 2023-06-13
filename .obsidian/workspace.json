@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "accb60f3f86b585d",
+        "id": "da932d6c84d90c24",
         "type": "tabs",
         "children": [
           {
-            "id": "94840283b05b6794",
+            "id": "ac959ca9475f6a21",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d01058e8719d8502",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试题/个人简历/个人简历.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试题/个人简历/个人简历.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试题/个人简历/个人简历.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试题/个人简历/个人简历.md"
+                "file": "README.md"
               }
             }
           }
@@ -155,40 +164,45 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "94840283b05b6794",
+  "active": "e8896c210afdb708",
   "lastOpenFiles": [
-    "面试题/个人简历/张文豪-15380250951-Golang服务端.pdf",
-    "面试题/个人简历/个人简历.md",
-    "面试题/问题记录.md",
-    "面试题/个人简历",
-    "面试题/面经，整理问题，总结学习.md",
-    "C K&B/练习在c_practice仓库.md",
-    "C K&B/第二章 类型、运算符与表达式.md",
-    "C K&B/第一章 导言.md",
-    "C Primer Plus/未命名.md",
-    "Game/记录.md",
-    "C Primer Plus",
+    "Server Note/Network/WebSocket.md",
+    "Server Note/Network",
+    "Direction/研发修行.md",
+    "Direction",
+    "Interview Note/知识点/Redis 过期策略和淘汰策略.md",
+    "Interview Note/知识点/Mysql-索引基础.md",
+    "Interview Note/知识点/Go pprof使用.md",
+    "Interview Note/个人简历/张文豪-15380250951-Golang服务端.pdf",
+    "Interview Note/个人简历/个人简历.md",
+    "Interview Note/面经，整理问题，总结学习.md",
+    "Interview Note/问题记录.md",
+    "Interview Note/知识点",
+    "Interview Note/个人简历",
+    "Interview Note",
+    "Server Note/Golang/Map并发安全.md",
+    "Server Note/Golang/Go 依赖注入Wire.md",
+    "Server Note/WebSocket.md",
+    "Server Note/Linux",
+    "Server Note/Golang",
+    "Server Note",
+    "未命名",
     "leetcode/需要记住的算法题.md",
-    "后端/Go 依赖注入Wire.md",
-    "面试题/知识点/Mysql-索引基础.md",
-    "面试题/知识点/Go pprof使用.md",
-    "面试题/知识点/Redis 过期策略和淘汰策略.md",
-    "后端/未命名",
+    "Game Note/记录.md",
+    "Book Note/CSAPP/P2 Bite,Bytes,and Integer.md",
+    "Book Note/CSAPP/P1 lecuture 01 Course Overview.md",
+    "后端/Golang/Map并发安全.md",
+    "C Primer Plus/未命名.md",
     "后端/WebSocket.md",
-    "面试题/知识点",
-    "README.md",
-    "leetcode",
+    "后端/Golang/Go 依赖注入Wire.md",
+    "面试题/个人简历/个人简历.md",
+    "后端/Go 依赖注入Wire.md",
+    "Book Note/C K&B/练习在c_practice仓库.md",
+    "Book Note/C K&B/第二章 类型、运算符与表达式.md",
+    "Book Note/C K&B/第一章 导言.md",
+    "后端/未命名.md",
     "研发方向/研发修行.md",
-    "未命名.md",
-    "面试题",
-    "研发/Redis.md",
-    "后端",
-    "CSAPP/P1 lecuture 01 Course Overview.md",
-    "CSAPP/P2 Bite,Bytes,and Integer.md",
-    "C-programing/菜鸟教程.md",
-    "Pasted image 20230514202713.png",
-    "C K&B",
-    "CSAPP",
-    "未命名 1.md"
+    "Untitled.canvas",
+    "Pasted image 20230514202713.png"
   ]
 }
