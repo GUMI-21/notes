@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Server Note/Linux/K8S.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Server Note/Linux/K8S.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Server Note/Linux/K8S.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Server Note/Linux/K8S.md"
               }
             }
           }
@@ -164,44 +164,43 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e8896c210afdb708",
+  "active": "d01058e8719d8502",
   "lastOpenFiles": [
+    "Server Note/Golang/Go 依赖注入Wire.md",
+    "Server Note/Golang/Map并发安全.md",
+    "Server Note/Linux/K8S.md",
     "Server Note/Network/WebSocket.md",
-    "Server Note/Network",
+    "leetcode/需要记住的算法题.md",
+    "Interview Note/面经，整理问题，总结学习.md",
+    "Interview Note/个人简历/张文豪-15380250951-Golang服务端.pdf",
+    "Interview Note/个人简历/个人简历.md",
+    "Game Note/记录.md",
     "Direction/研发修行.md",
+    "Book Note/CSAPP/P2 Bite,Bytes,and Integer.md",
+    "Book Note/CSAPP/P1 lecuture 01 Course Overview.md",
+    "Book Note/C K&B/第一章 导言.md",
+    "Book Note/C K&B/练习在c_practice仓库.md",
+    "Book Note/C K&B/第二章 类型、运算符与表达式.md",
+    "Server Note/Linux",
+    "Server Note/Network",
     "Direction",
     "Interview Note/知识点/Redis 过期策略和淘汰策略.md",
     "Interview Note/知识点/Mysql-索引基础.md",
     "Interview Note/知识点/Go pprof使用.md",
-    "Interview Note/个人简历/张文豪-15380250951-Golang服务端.pdf",
-    "Interview Note/个人简历/个人简历.md",
-    "Interview Note/面经，整理问题，总结学习.md",
     "Interview Note/问题记录.md",
     "Interview Note/知识点",
     "Interview Note/个人简历",
     "Interview Note",
-    "Server Note/Golang/Map并发安全.md",
-    "Server Note/Golang/Go 依赖注入Wire.md",
     "Server Note/WebSocket.md",
     "Server Note/Linux",
     "Server Note/Golang",
     "Server Note",
-    "未命名",
-    "leetcode/需要记住的算法题.md",
-    "Game Note/记录.md",
-    "Book Note/CSAPP/P2 Bite,Bytes,and Integer.md",
-    "Book Note/CSAPP/P1 lecuture 01 Course Overview.md",
     "后端/Golang/Map并发安全.md",
     "C Primer Plus/未命名.md",
     "后端/WebSocket.md",
     "后端/Golang/Go 依赖注入Wire.md",
     "面试题/个人简历/个人简历.md",
     "后端/Go 依赖注入Wire.md",
-    "Book Note/C K&B/练习在c_practice仓库.md",
-    "Book Note/C K&B/第二章 类型、运算符与表达式.md",
-    "Book Note/C K&B/第一章 导言.md",
-    "后端/未命名.md",
-    "研发方向/研发修行.md",
     "Untitled.canvas",
     "Pasted image 20230514202713.png"
   ]
