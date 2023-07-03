@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server Note/Linux/K8S.md",
+                "file": "Server Note/Golang/GMP分析.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f023be9198a30727",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book Note/C K&B/第二章 类型、运算符与表达式.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server Note/Linux/K8S.md",
+                "file": "Book Note/C K&B/第二章 类型、运算符与表达式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server Note/Linux/K8S.md",
+                "file": "Book Note/C K&B/第二章 类型、运算符与表达式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server Note/Linux/K8S.md"
+                "file": "Book Note/C K&B/第二章 类型、运算符与表达式.md"
               }
             }
           }
@@ -164,22 +176,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d01058e8719d8502",
+  "active": "e8896c210afdb708",
   "lastOpenFiles": [
+    "Book Note/C K&B/第一章 导言.md",
+    "Book Note/C K&B/练习在c_practice仓库.md",
+    "Book Note/CSAPP/P2 Bite,Bytes,and Integer.md",
+    "Linux Command/一些提高效率的命令.md",
+    "Server Note/Golang/GMP分析.md",
+    "Linux Command",
+    "Linux Command",
+    "Server Note/Linux/未命名.md",
     "Server Note/Golang/Go 依赖注入Wire.md",
-    "Server Note/Golang/Map并发安全.md",
     "Server Note/Linux/K8S.md",
     "Server Note/Network/WebSocket.md",
+    "Server Note/Golang/Map并发安全.md",
     "leetcode/需要记住的算法题.md",
     "Interview Note/面经，整理问题，总结学习.md",
     "Interview Note/个人简历/张文豪-15380250951-Golang服务端.pdf",
     "Interview Note/个人简历/个人简历.md",
     "Game Note/记录.md",
     "Direction/研发修行.md",
-    "Book Note/CSAPP/P2 Bite,Bytes,and Integer.md",
     "Book Note/CSAPP/P1 lecuture 01 Course Overview.md",
-    "Book Note/C K&B/第一章 导言.md",
-    "Book Note/C K&B/练习在c_practice仓库.md",
     "Book Note/C K&B/第二章 类型、运算符与表达式.md",
     "Server Note/Linux",
     "Server Note/Network",
@@ -193,14 +210,10 @@
     "Interview Note",
     "Server Note/WebSocket.md",
     "Server Note/Linux",
-    "Server Note/Golang",
-    "Server Note",
     "后端/Golang/Map并发安全.md",
     "C Primer Plus/未命名.md",
     "后端/WebSocket.md",
     "后端/Golang/Go 依赖注入Wire.md",
-    "面试题/个人简历/个人简历.md",
-    "后端/Go 依赖注入Wire.md",
     "Untitled.canvas",
     "Pasted image 20230514202713.png"
   ]
