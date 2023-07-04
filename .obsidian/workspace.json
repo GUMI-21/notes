@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "985f4fab36038875",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Book Note/C K&B/第三章 控制流.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book Note/C K&B/第二章 类型、运算符与表达式.md",
+                "file": "Book Note/C K&B/第三章 控制流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book Note/C K&B/第二章 类型、运算符与表达式.md",
+                "file": "Book Note/C K&B/第三章 控制流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book Note/C K&B/第二章 类型、运算符与表达式.md"
+                "file": "Book Note/C K&B/第三章 控制流.md"
               }
             }
           }
@@ -176,8 +188,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e8896c210afdb708",
+  "active": "985f4fab36038875",
   "lastOpenFiles": [
+    "Book Note/C K&B/第二章 类型、运算符与表达式.md",
+    "Book Note/C K&B/第三章 控制流.md",
     "Book Note/C K&B/第一章 导言.md",
     "Book Note/C K&B/练习在c_practice仓库.md",
     "Book Note/CSAPP/P2 Bite,Bytes,and Integer.md",
@@ -197,7 +211,6 @@
     "Game Note/记录.md",
     "Direction/研发修行.md",
     "Book Note/CSAPP/P1 lecuture 01 Course Overview.md",
-    "Book Note/C K&B/第二章 类型、运算符与表达式.md",
     "Server Note/Linux",
     "Server Note/Network",
     "Direction",
@@ -213,7 +226,6 @@
     "后端/Golang/Map并发安全.md",
     "C Primer Plus/未命名.md",
     "后端/WebSocket.md",
-    "后端/Golang/Go 依赖注入Wire.md",
     "Untitled.canvas",
     "Pasted image 20230514202713.png"
   ]
