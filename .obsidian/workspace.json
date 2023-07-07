@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book Note/C K&B/第三章 控制流.md",
+                "file": "Linux Command/一.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book Note/C K&B/第三章 控制流.md",
+                "file": "Linux Command/一.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book Note/C K&B/第三章 控制流.md",
+                "file": "Linux Command/一.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book Note/C K&B/第三章 控制流.md"
+                "file": "Linux Command/一.md"
               }
             }
           }
@@ -190,12 +190,12 @@
   },
   "active": "985f4fab36038875",
   "lastOpenFiles": [
-    "Book Note/C K&B/第二章 类型、运算符与表达式.md",
     "Book Note/C K&B/第三章 控制流.md",
+    "Book Note/C K&B/第二章 类型、运算符与表达式.md",
     "Book Note/C K&B/第一章 导言.md",
     "Book Note/C K&B/练习在c_practice仓库.md",
     "Book Note/CSAPP/P2 Bite,Bytes,and Integer.md",
-    "Linux Command/一些提高效率的命令.md",
+    "Linux Command/一.md",
     "Server Note/Golang/GMP分析.md",
     "Linux Command",
     "Linux Command",
