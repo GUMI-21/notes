@@ -1,72 +1,39 @@
 {
   "main": {
-    "id": "9becf08eda230062",
+    "id": "c8a79a1edb76b035",
     "type": "split",
     "children": [
       {
-        "id": "da932d6c84d90c24",
+        "id": "ed8be09be38d4415",
         "type": "tabs",
         "children": [
           {
-            "id": "ac959ca9475f6a21",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d01058e8719d8502",
+            "id": "4b003038119b8671",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server Note/Golang/GMP分析.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f023be9198a30727",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book Note/C K&B/第二章 类型、运算符与表达式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "985f4fab36038875",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux Command/一.md",
+                "file": "Linux Command/一些命令.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e6852a3270016a36",
+    "id": "e8eaab5e97bba136",
     "type": "split",
     "children": [
       {
-        "id": "f54e07d02a2bd5b8",
+        "id": "f4b627d1bc0051d9",
         "type": "tabs",
         "children": [
           {
-            "id": "e8896c210afdb708",
+            "id": "3bb48b6976b6e058",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -76,7 +43,7 @@
             }
           },
           {
-            "id": "0e6aacf898827653",
+            "id": "8cc0b97f364ca68c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -91,15 +58,7 @@
             }
           },
           {
-            "id": "78937e52a34b235e",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "62efccc95079e667",
+            "id": "d36063a70d8ab87c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,47 +69,47 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "f5e44391aa534fcd",
+    "id": "ea7799dae9d59a47",
     "type": "split",
     "children": [
       {
-        "id": "903050612c886f18",
+        "id": "fee5e3408ccfbd71",
         "type": "tabs",
         "children": [
           {
-            "id": "780967b6b81853de",
+            "id": "b11434093386a48c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Command/一.md",
+                "file": "Linux Command/一些命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a0161d2a6f8f06b5",
+            "id": "20ef30517116e20c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Command/一.md",
+                "file": "Linux Command/一些命令.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e3dad1920a4f1e27",
+            "id": "8f8e34d5c602b0ea",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -161,21 +120,20 @@
             }
           },
           {
-            "id": "d0f8cc6b118a4850",
+            "id": "73ce4ca004c278c4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Command/一.md"
+                "file": "Linux Command/一些命令.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -188,45 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "985f4fab36038875",
+  "active": "4b003038119b8671",
   "lastOpenFiles": [
-    "Book Note/C K&B/第三章 控制流.md",
-    "Book Note/C K&B/第二章 类型、运算符与表达式.md",
-    "Book Note/C K&B/第一章 导言.md",
-    "Book Note/C K&B/练习在c_practice仓库.md",
-    "Book Note/CSAPP/P2 Bite,Bytes,and Integer.md",
     "Linux Command/一.md",
-    "Server Note/Golang/GMP分析.md",
-    "Linux Command",
-    "Linux Command",
-    "Server Note/Linux/未命名.md",
-    "Server Note/Golang/Go 依赖注入Wire.md",
-    "Server Note/Linux/K8S.md",
-    "Server Note/Network/WebSocket.md",
-    "Server Note/Golang/Map并发安全.md",
-    "leetcode/需要记住的算法题.md",
-    "Interview Note/面经，整理问题，总结学习.md",
-    "Interview Note/个人简历/张文豪-15380250951-Golang服务端.pdf",
-    "Interview Note/个人简历/个人简历.md",
-    "Game Note/记录.md",
-    "Direction/研发修行.md",
-    "Book Note/CSAPP/P1 lecuture 01 Course Overview.md",
-    "Server Note/Linux",
-    "Server Note/Network",
-    "Direction",
-    "Interview Note/知识点/Redis 过期策略和淘汰策略.md",
-    "Interview Note/知识点/Mysql-索引基础.md",
-    "Interview Note/知识点/Go pprof使用.md",
-    "Interview Note/问题记录.md",
-    "Interview Note/知识点",
-    "Interview Note/个人简历",
-    "Interview Note",
-    "Server Note/WebSocket.md",
-    "Server Note/Linux",
-    "后端/Golang/Map并发安全.md",
-    "C Primer Plus/未命名.md",
-    "后端/WebSocket.md",
-    "Untitled.canvas",
-    "Pasted image 20230514202713.png"
+    "Linux Command/一些命令.md"
   ]
 }
