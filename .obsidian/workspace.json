@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ed8be09be38d4415",
+        "id": "ae2f1e292cdb4147",
         "type": "tabs",
         "children": [
           {
-            "id": "4b003038119b8671",
+            "id": "241baa04fd7a9281",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Command/一些命令.md",
+                "file": "Linux/Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Command/一些命令.md",
+                "file": "Linux/Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Command/一些命令.md",
+                "file": "Linux/Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Command/一些命令.md"
+                "file": "Linux/Commands.md"
               }
             }
           }
@@ -146,9 +146,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4b003038119b8671",
+  "active": "241baa04fd7a9281",
   "lastOpenFiles": [
-    "Linux Command/一.md",
-    "Linux Command/一些命令.md"
+    "数据结构和算法/需要记住的算法题.md",
+    "Book Note/C K&B/练习在c_practice仓库.md",
+    "Book Note/C K&B/第三章 控制流.md",
+    "Book Note/C K&B/第二章 类型、运算符与表达式.md",
+    "Book Note/C K&B/第一章 导言.md",
+    "Direction/研发修行.md",
+    "Game Note/记录.md",
+    "Linux/Commands.md",
+    "Golang/Go 依赖注入Wire.md",
+    "Golang/GMP分析.md",
+    "Book Note/CSAPP/P1 lecuture 01 Course Overview.md",
+    "Linux/K8S.md",
+    "Linux Command/一.md"
   ]
 }
