@@ -15,5 +15,6 @@ rm -rf /mnt/.swapfile
 #### git
 `git checkout branch path` 覆盖分支文件
 `git add remote origin git@xxxx` 添加远程分支
+`git rm -r --cached path` 删除本地git文件缓存
 #### mysql
 `unix_timestamp("2023-07-10 0:00:00")` 时间转时间戳
