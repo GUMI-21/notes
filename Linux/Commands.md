@@ -1,4 +1,4 @@
-#### Linux
+s#### Linux
 `curl xxxx | python -m json.tool` 将curl的返回json进行格式化
 `nslookup` 
 + 虚拟内存
@@ -16,5 +16,8 @@ rm -rf /mnt/.swapfile
 `git checkout branch path` 覆盖分支文件
 `git add remote origin git@xxxx` 添加远程分支
 `git rm -r --cached path` 删除本地git文件缓存
+`git push origin 分支名 --force` 覆盖远程分支
 #### mysql
 `unix_timestamp("2023-07-10 0:00:00")` 时间转时间戳
+`json_extract(params,"$.gift_id")` sql解析json
+`FROM_UNIXTIME()` 转换时间戳
