@@ -1,4 +1,4 @@
-s#### Linux
+#### Linux
 `curl xxxx | python -m json.tool` 将curl的返回json进行格式化
 `nslookup` 
 + 虚拟内存
@@ -21,3 +21,4 @@ rm -rf /mnt/.swapfile
 `unix_timestamp("2023-07-10 0:00:00")` 时间转时间戳
 `json_extract(params,"$.gift_id")` sql解析json
 `FROM_UNIXTIME()` 转换时间戳
+`SHOW VARIABLES LIKE 'wait_timeout' ;` 查看超时时间
