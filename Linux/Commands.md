@@ -17,6 +17,7 @@ rm -rf /mnt/.swapfile
 `git add remote origin git@xxxx` 添加远程分支
 `git rm -r --cached path` 删除本地git文件缓存
 `git push origin 分支名 --force` 覆盖远程分支
+`git log --pretty=format:"%h %an"` git log format
 #### mysql
 `unix_timestamp("2023-07-10 0:00:00")` 时间转时间戳
 `json_extract(params,"$.gift_id")` sql解析json
