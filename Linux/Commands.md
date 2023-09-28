@@ -18,6 +18,13 @@ rm -rf /mnt/.swapfile
 `git rm -r --cached path` 删除本地git文件缓存
 `git push origin 分支名 --force` 覆盖远程分支
 `git log --pretty=format:"%h %an"` git log format
+修改提交信息
+```bash
+$ git rebase -i HEAD~10
+# 要修改的commit pick->e    :wq
+$ git commit --amend
+$ git rebase --continue
+```
 #### mysql
 `unix_timestamp("2023-07-10 0:00:00")` 时间转时间戳
 `json_extract(params,"$.gift_id")` sql解析json
