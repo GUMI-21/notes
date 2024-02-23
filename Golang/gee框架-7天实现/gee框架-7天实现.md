@@ -20,3 +20,5 @@ type Handler interface {
 func ListenAndServe(address string,h Handle) error
 ```
 h:只要传入任何实现了 _ServerHTTP_ 接口的实例，所有的HTTP请求，就都交给了该实例处理了。
++ 对Web服务来说，无非是根据请求`*http.Request`，构造响应`http.ResponseWriter`。
++ 
