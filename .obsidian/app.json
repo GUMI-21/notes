@@ -7,5 +7,12 @@
   "foldHeading": true,
   "showLineNumber": true,
   "showIndentGuide": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
