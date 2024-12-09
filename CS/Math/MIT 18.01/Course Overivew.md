@@ -6,3 +6,5 @@
 + Applications to Science: Average Values, work, and Probability
 + Techniques of Integration
 + Approximation of definite intergrals, improper intergrals, and L’Hôspital’s Rule
+Intergration 积分
+Continuity 连续
