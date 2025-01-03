@@ -8,3 +8,5 @@
 + Approximation of definite intergrals, improper intergrals, and L’Hôspital’s Rule
 Intergration 积分
 Continuity 连续
+Derivatives 导数
+asymptotes 渐进线
