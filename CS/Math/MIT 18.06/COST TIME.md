@@ -6,3 +6,4 @@ date: 2.7-2.13
 unit3: Poitive Dfinite Matrices and Applications
 date: 2.14-2.17
 Final Review And Final Exam
+date: 2.18
