@@ -13,3 +13,5 @@ date: 2.14-2.17
 
 Final Review And Final Exam
 date: 2.18
+
+note:https://github.com/GUMI-21/MIT6.042J_note

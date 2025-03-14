@@ -12,3 +12,5 @@ Unit 4: Techniques of Integration
 Unit 5: Exploring the Infinite
 
 begin: 2024.12.10  end: 2025.1.5
+
+note:https://github.com/GUMI-21/MIT18.01_note
