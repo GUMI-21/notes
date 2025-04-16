@@ -1,0 +1,85 @@
+PWD b:\projects\笔记\修士\出愿汇总\广岛大学
+INPUT C:\Users\79923\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT b:\projects\笔记\修士\出愿汇总\广岛大学\Research plan.tex
+OUTPUT Research plan.log
+INPUT B:\Soft\Laex\tex\latex\base\article.cls
+INPUT B:\Soft\Laex\tex\latex\base\article.cls
+INPUT B:\Soft\Laex\tex\latex\base\size10.clo
+INPUT B:\Soft\Laex\tex\latex\base\size10.clo
+INPUT B:\Soft\Laex\tex\latex\base\size10.clo
+INPUT B:\Soft\Laex\tex\latex\geometry\geometry.sty
+INPUT B:\Soft\Laex\tex\latex\geometry\geometry.sty
+INPUT B:\Soft\Laex\tex\latex\graphics\keyval.sty
+INPUT B:\Soft\Laex\tex\latex\graphics\keyval.sty
+INPUT B:\Soft\Laex\tex\generic\iftex\ifvtex.sty
+INPUT B:\Soft\Laex\tex\generic\iftex\ifvtex.sty
+INPUT B:\Soft\Laex\tex\generic\iftex\iftex.sty
+INPUT B:\Soft\Laex\tex\generic\iftex\iftex.sty
+INPUT B:\Soft\Laex\tex\latex\geometry\geometry.cfg
+INPUT B:\Soft\Laex\tex\latex\geometry\geometry.cfg
+INPUT B:\Soft\Laex\tex\latex\geometry\geometry.cfg
+INPUT B:\Soft\Laex\tex\latex\amsmath\amsmath.sty
+INPUT B:\Soft\Laex\tex\latex\amsmath\amsmath.sty
+INPUT B:\Soft\Laex\tex\latex\amsmath\amsopn.sty
+INPUT B:\Soft\Laex\tex\latex\amsmath\amstext.sty
+INPUT B:\Soft\Laex\tex\latex\amsmath\amstext.sty
+INPUT B:\Soft\Laex\tex\latex\amsmath\amsgen.sty
+INPUT B:\Soft\Laex\tex\latex\amsmath\amsgen.sty
+INPUT B:\Soft\Laex\tex\latex\amsmath\amsbsy.sty
+INPUT B:\Soft\Laex\tex\latex\amsmath\amsbsy.sty
+INPUT B:\Soft\Laex\tex\latex\amsmath\amsopn.sty
+INPUT B:\Soft\Laex\tex\latex\amsfonts\amssymb.sty
+INPUT B:\Soft\Laex\tex\latex\amsfonts\amssymb.sty
+INPUT B:\Soft\Laex\tex\latex\amsfonts\amsfonts.sty
+INPUT B:\Soft\Laex\tex\latex\amsfonts\amsfonts.sty
+INPUT B:\Soft\Laex\tex\latex\l3backend\l3backend-pdftex.def
+INPUT B:\Soft\Laex\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\Research plan.aux
+INPUT .\Research plan.aux
+INPUT Research plan.aux
+OUTPUT Research plan.aux
+INPUT B:\Soft\Laex\fonts\tfm\public\cm\cmr17.tfm
+INPUT B:\Soft\Laex\fonts\tfm\public\cm\cmr12.tfm
+INPUT B:\Soft\Laex\fonts\tfm\public\cm\cmr8.tfm
+INPUT B:\Soft\Laex\fonts\tfm\public\cm\cmr6.tfm
+INPUT B:\Soft\Laex\fonts\tfm\public\cm\cmmi12.tfm
+INPUT B:\Soft\Laex\fonts\tfm\public\cm\cmmi8.tfm
+INPUT B:\Soft\Laex\fonts\tfm\public\cm\cmmi6.tfm
+INPUT B:\Soft\Laex\fonts\tfm\public\cm\cmsy10.tfm
+INPUT B:\Soft\Laex\fonts\tfm\public\cm\cmsy8.tfm
+INPUT B:\Soft\Laex\fonts\tfm\public\cm\cmsy6.tfm
+INPUT B:\Soft\Laex\fonts\tfm\public\cm\cmex10.tfm
+INPUT B:\Soft\Laex\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT B:\Soft\Laex\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT B:\Soft\Laex\tex\latex\amsfonts\umsa.fd
+INPUT B:\Soft\Laex\tex\latex\amsfonts\umsa.fd
+INPUT B:\Soft\Laex\tex\latex\amsfonts\umsa.fd
+INPUT B:\Soft\Laex\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT B:\Soft\Laex\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT B:\Soft\Laex\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT B:\Soft\Laex\tex\latex\amsfonts\umsb.fd
+INPUT B:\Soft\Laex\tex\latex\amsfonts\umsb.fd
+INPUT B:\Soft\Laex\tex\latex\amsfonts\umsb.fd
+INPUT B:\Soft\Laex\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT B:\Soft\Laex\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT B:\Soft\Laex\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT B:\Soft\Laex\fonts\tfm\public\cm\cmr12.tfm
+INPUT B:\Soft\Laex\fonts\tfm\public\cm\cmbx12.tfm
+INPUT B:\Soft\Laex\fonts\tfm\jknappen\ec\tcrm1000.tfm
+INPUT B:\Soft\Laex\fonts\tfm\public\cm\cmbx10.tfm
+OUTPUT Research plan.pdf
+INPUT C:\Users\79923\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT B:\Soft\Laex\fonts\tfm\public\cm\cmti10.tfm
+INPUT Research plan.aux
+INPUT C:\Users\79923\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\79923\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT B:\Soft\Laex\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT B:\Soft\Laex\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT B:\Soft\Laex\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT B:\Soft\Laex\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT B:\Soft\Laex\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT B:\Soft\Laex\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT B:\Soft\Laex\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT B:\Soft\Laex\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT B:\Soft\Laex\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT B:\Soft\Laex\fonts\type1\public\amsfonts\cm\cmti10.pfb

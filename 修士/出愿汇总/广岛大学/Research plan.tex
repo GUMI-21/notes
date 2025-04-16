@@ -1,0 +1,67 @@
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\title{Estimation of Bicycle Front Wheel Steering Angle and Cyclist Orientation Using LiDAR Data}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+Autonomous driving is a rapidly advancing field, and ensuring the safety of vulnerable road users (VRUs) such as pedestrians and cyclists is paramount. Cyclists, with their higher speeds compared to pedestrians, require particularly timely and accurate trajectory prediction from autonomous systems. While "Cyclist Orientation Estimation Using LiDAR Data" \cite{Chang2023} provides a foundation, real-world scenarios often present challenges in reliably acquiring cyclist body and head pose data due to factors like helmets and rain gear. This research addresses this limitation by focusing on the "Bicycle Front Wheel Steering Angle" as a complementary indicator of cyclist direction. The steering angle is directly correlated with the cyclist's intended path, providing a robust means of predicting future movement, especially when combined with historical trajectory data. This bicycle-centric approach minimizes interference from variations in cyclist physique or clothing, offering a standardized model applicable across diverse cyclist demographics (children, adults, commuters, athletes). This enhanced accuracy improves safety and facilitates more natural interactions between autonomous vehicles and vulnerable road users.
+
+\section{Methodology}
+
+This research builds upon established methods from "Cyclist Orientation Estimation Using LiDAR Data" \cite{Chang2023} with a specific focus on refining the analysis of the bicycle's front wheel. The proposed methodology encompasses the following steps:
+
+\begin{itemize}
+    \item \textbf{Data Acquisition:} Collect LiDAR point cloud data encompassing diverse cycling scenarios: straight, left, and right turns. Acquire point cloud data encompassing various bicycles and road conditions.
+    \item \textbf{Data Preprocessing:}
+    \begin{itemize}
+        \item \textbf{PCD Conversion:} Convert LiDAR sensor packet files to Point Cloud Data (PCD) format.
+    \end{itemize}
+    \item \textbf{Feature Extraction \& Classification:}
+    \begin{itemize}
+        \item \textbf{Reflectivity Optimization:} Utilize reflectivity information extracted from the PCD data. Explore classification and clustering techniques to differentiate the characteristics of various bicycle types, leading to improved accuracy.
+    \end{itemize}
+    \item \textbf{Model Training:}
+    \begin{itemize}
+        \item \textbf{ResNet50 Integration:} Feed the enhanced point cloud data into a ResNet50-based point cloud data classification model, modified to predict the bicycle's front wheel steering angle and overall cyclist orientation.
+    \end{itemize}
+    \item \textbf{Evaluation:}
+    \begin{itemize}
+        \item \textbf{Accuracy Metrics:}  Assess the model's performance by meticulously evaluating the accuracy of steering angle predictions. The results will be broken down by cycling state to give greater insight into how well this solution works.
+    \end{itemize}
+\end{itemize}
+
+\section{Discussion}
+
+The central focus of this research lies in effectively training a CNN using LiDAR data to accurately identify the steering angle of the bicycle's front wheel relative to the bicycle frame. A key evaluation criterion is the model's ability to differentiate between distinct cycling states (straight, left turn, right turn). Key considerations include:
+
+\begin{itemize}
+    \item \textbf{Robustness and Occlusion Handling:} The model must be robust to noise in LiDAR point clouds, especially when handling common sources of occlusion, such as other vehicles.
+    \item \textbf{Generalizability:} The model must effectively generalize across bicycles with varying frame geometries, tire diameters and riders of various sizes and positions.
+    \item \textbf{Performance Optimization:} Optimization is paramount for real-time applications.
+    \item \textbf{Deep Learning Skill Development:} To ensure the project’s effectiveness, this study will involve continued learning and development of deep learning-based techniques. The aim is to enhance the model's effectiveness and explore further optimizations.
+\end{itemize}
+
+\section{Expected Outcomes}
+
+\begin{itemize}
+    \item An accurate deep learning model capable of predicting front wheel steering angle from LiDAR point clouds.
+    \item A thorough evaluation of the model's performance across various cycling states.
+    \item A clear understanding of the feasibility and limitations of applying LiDAR data and CNNs to this unique problem.
+\end{itemize}
+
+\section{References}
+
+\begin{thebibliography}{9}
+    \bibitem{Chang2023} Chang, Hyoungwon, et al. "Cyclist Orientation Estimation Using LiDAR Data." \textit{Sensors} 23.6 (2023): 3096.
+    \item [Add additional relevant references here]
+\end{thebibliography}
+
+\end{document}
