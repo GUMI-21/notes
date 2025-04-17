@@ -37,3 +37,16 @@ class Solution(object):
                 return isSame(node1.left, node2.left) and isSame(node1.right, node2.right)
         return isSame(p, q)
 
+# test case
+if __name__ == "__main__":
+    print(111111)
+    p = TreeNode(1, TreeNode(2), TreeNode(3))
+    q = TreeNode(1, TreeNode(2), TreeNode(3))
+    print(Solution().isSameTree(p, q)) 
+    # more test case
+    p = TreeNode(1, TreeNode(2))
+    q = TreeNode(1, None, TreeNode(2))
+    print(Solution().isSameTree(p, q)) 
+    p = TreeNode(1, TreeNode(2), TreeNode(1))
+    q = TreeNode(1, TreeNode(1), TreeNode(2))
+    print(Solution().isSameTree(p, q)) 
